@@ -1,6 +1,7 @@
 # High Level Architecture
 
-Pull Request Created/Updated.
+```
+Pull Request Created/Updated  
         ↓
 GitHub Action Workflow Triggered
         ↓
@@ -13,3 +14,4 @@ Send Diff to OpenAI API
 Receive Structured Feedback
         ↓
 Post Comment on PR
+```
